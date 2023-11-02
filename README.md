@@ -35,3 +35,10 @@ git clone <repository-link>
 cd path-to-repo
 pip install -r requirements.txt
 python main.py
+
+
+
+**NOTE:**
+The dataset is too large to add to the repository even as a zip file. It is easily accessible online  -   google fer2013.csv
+
+VGG h5 model files are also too large to add to the repository.
